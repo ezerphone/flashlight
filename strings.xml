@@ -1,0 +1,5 @@
+<resources>
+    <string name="a11y_desc">מזהה לחיצה ארוכה או כפולה על כפתור המצלמה הפיזי ומפעיל את הפעולה שבחרת. השירות לא קורא תוכן מהמסך ולא אוסף מידע.</string>
+    <string name="sc_torch">פנס</string>
+    <string name="sc_sos">SOS</string>
+</resources>
